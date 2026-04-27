@@ -3,3 +3,11 @@
 payload:
   - DOMAIN-SUFFIX,xbiquzw.com
   - DOMAIN-SUFFIX,wd-purple.com
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WeChatApp.exe
+  - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,myqcloud.com
